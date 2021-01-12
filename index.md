@@ -1,4 +1,17 @@
 
+### [YouTube] (https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA)
+
+### SoundCloud
+
+### BandCamp
+
+### FaceBook
+
+### InstaGram
+
+### ConTact 
+
+### JoyHurtz
 
 
 <!---
