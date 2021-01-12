@@ -1,17 +1,17 @@
 
-[YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA)
+[YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA){:target="_blank"}
 
-### SoundCloud
+[SoundCloud](https://soundcloud.com/joyhurtz3)
 
-### BandCamp
+[BandCamp]()
 
-### FaceBook
+[FaceBook]()
 
-### InstaGram
+[InstaGram]()
 
-### ConTact 
+[ConTact]()
 
-### JoyHurtz
+JoyHurtz
 
 
 <!---
