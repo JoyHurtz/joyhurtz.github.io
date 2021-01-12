@@ -3,7 +3,7 @@
 
 [SoundCloud](https://soundcloud.com/joyhurtz3){:target="_blank"}
 
-[BandCamp](https://joyhurtz3.bandcamp.com/m){:target="_blank"}
+[BandCamp](https://joyhurtz3.bandcamp.com/){:target="_blank"}
 
 [FaceBook](https://www.facebook.com/joyhurtz3){:target="_blank"}
 
