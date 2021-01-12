@@ -1,5 +1,5 @@
 
-![Image](media/JoyPixel.jpg)
+![Image](media/JoyPixel_quarter.jpg)
 
 [YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA){:target="_blank"}
 
@@ -14,8 +14,6 @@
 [ConTact](mailto:joyhurtz.booking@gmail.com){:target="_blank"}
 
 [JoyHurtz]()
-
-![Image](media/JoyPixel.jpg)
 
 <!---
 ## Welcome to GitHub Pages
