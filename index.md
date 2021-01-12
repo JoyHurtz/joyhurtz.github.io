@@ -1,17 +1,17 @@
 
 [YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA){:target="_blank"}
 
-[SoundCloud](https://soundcloud.com/joyhurtz3)
+[SoundCloud](https://soundcloud.com/joyhurtz3){:target="_blank"}
 
-[BandCamp]()
+[BandCamp](https://joyhurtz3.bandcamp.com/m){:target="_blank"}
 
-[FaceBook]()
+[FaceBook](https://www.facebook.com/joyhurtz3){:target="_blank"}
 
-[InstaGram]()
+[InstaGram](https://www.instagram.com/joyhurtz3/){:target="_blank"}
 
-[ConTact]()
+[ConTact](mailto:joyhurtz.booking@gmail.com)
 
-JoyHurtz
+[JoyHurtz]()
 
 
 <!---
