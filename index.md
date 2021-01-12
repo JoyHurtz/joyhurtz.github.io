@@ -1,4 +1,6 @@
 
+![Image](media/JoyPixel.jpg)
+
 [YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA){:target="_blank"}
 
 [SoundCloud](https://soundcloud.com/joyhurtz3){:target="_blank"}
@@ -13,6 +15,7 @@
 
 [JoyHurtz]()
 
+![Image](media/JoyPixel.jpg)
 
 <!---
 ## Welcome to GitHub Pages
