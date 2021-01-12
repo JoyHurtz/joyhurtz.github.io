@@ -9,7 +9,7 @@
 
 [InstaGram](https://www.instagram.com/joyhurtz3/){:target="_blank"}
 
-[ConTact](mailto:joyhurtz.booking@gmail.com)
+[ConTact](mailto:joyhurtz.booking@gmail.com){:target="_blank"}
 
 [JoyHurtz]()
 
