@@ -1,5 +1,5 @@
 
-![Image](media/JoyPixel_quarter.jpg)
+![Image](media/JoyPixel_260.jpg)
 
 [YouTube](https://www.youtube.com/channel/UCFyZjw3ZYFT78C_-J9KRQnA){:target="_blank"}
 
